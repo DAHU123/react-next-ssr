@@ -2,14 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d7307caf-4e6a-49cb-9287-a1e402a90c9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/styles/commone-variable.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/.babelrc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/next.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/pages/_app.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/pages/index.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles/Home.module.less" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.less" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -79,9 +81,9 @@
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
     <state x="2470" y="172" key="RollbackChangesDialog/0.23.1792.1017/1792.23.1920.1057@1792.23.1920.1057" timestamp="1608108518738" />
-    <state x="2373" y="233" width="773" height="602" key="find.popup" timestamp="1608107413463">
+    <state x="2373" y="233" width="773" height="602" key="find.popup" timestamp="1608173907799">
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
-    <state x="2373" y="233" width="773" height="602" key="find.popup/0.23.1792.1017/1792.23.1920.1057@1792.23.1920.1057" timestamp="1608107413463" />
+    <state x="2373" y="233" width="773" height="602" key="find.popup/0.23.1792.1017/1792.23.1920.1057@1792.23.1920.1057" timestamp="1608173907799" />
   </component>
 </project>

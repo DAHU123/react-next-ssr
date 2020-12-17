@@ -1,5 +1,5 @@
 import 'antd/dist/antd.css'
-import 'styles/globals.less'
+import '@/styles/globals.less'
 import React from "react";
 
 function MyApp({ Component, pageProps }: any) {

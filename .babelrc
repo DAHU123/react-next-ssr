@@ -6,6 +6,16 @@
       {
         "libraryName": "antd"
       }
+    ],
+    [
+      "module-resolver",
+      {
+        "alias": {
+          "@/pages": "./pages",
+          "@/public": "./public",
+          "@/styles": "./styles"
+        }
+      }
     ]
   ]
 }
