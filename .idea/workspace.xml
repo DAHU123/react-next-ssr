@@ -3,9 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="d7307caf-4e6a-49cb-9287-a1e402a90c9c" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next-env.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/next-env.d.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/Home.module.less" beforeDir="false" afterPath="$PROJECT_DIR$/styles/Home.module.less" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/globals.less" beforeDir="false" afterPath="$PROJECT_DIR$/styles/globals.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +33,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="Less" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="settings.editor.selected.configurable" value="settings.javascript.linters.eslint" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/node_modules/typescript/lib" />
   </component>
   <component name="SvnConfiguration">
@@ -51,6 +57,7 @@
       <workItem from="1608000662575" duration="3375000" />
       <workItem from="1608014132947" duration="15000" />
       <workItem from="1608015079049" duration="4244000" />
+      <workItem from="1608186245765" duration="420000" />
     </task>
     <servers />
   </component>
@@ -74,6 +81,10 @@
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
     <state x="2470" y="172" key="RollbackChangesDialog/0.23.1792.1017/1792.23.1920.1057@1792.23.1920.1057" timestamp="1608174129392" />
+    <state x="2240" y="63" key="SettingsEditor" timestamp="1608186667906">
+      <screen x="1792" y="23" width="1920" height="977" />
+    </state>
+    <state x="2240" y="63" key="SettingsEditor/0.23.1792.1097/1792.23.1920.977@1792.23.1920.977" timestamp="1608186667906" />
     <state x="2373" y="233" width="773" height="602" key="find.popup" timestamp="1608173907799">
       <screen x="1792" y="23" width="1920" height="1057" />
     </state>
