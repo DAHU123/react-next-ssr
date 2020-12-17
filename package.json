@@ -6,7 +6,7 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "format": "prettier --write \"src/**/*.js\" \"src/**/*.vue\""
+    "format": "prettier --write \"pages/**/*.js\" \"pages/**/*.ts\" \"pages/**/*.tsx\""
   },
   "dependencies": {
     "@zeit/next-css": "^1.0.1",
